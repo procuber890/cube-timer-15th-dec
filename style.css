@@ -1,0 +1,29 @@
+body {
+    background-color: #000000; /* Black background */
+    color: #FFFFFF; /* White text */
+}
+
+h1, h2, h3 {
+    color: #66fcf1; /* Accent color for headings */
+}
+
+button {
+    background-color: #fa1606; /* Primary button color */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #257500; /* Darker shade on hover */
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 300px; /* Set desired width */
+    height: 200px; /* Set desired height */
+}
